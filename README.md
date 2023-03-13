@@ -1,4 +1,4 @@
-## Hi!I am Ayodabo Tomisin and welcome to my analysis of the Spanish La Liga seasons fron the year 2010 to year 2019
+## Hi!I am Olasunkanmi Awolowo and welcome to my analysis of the Spanish La Liga seasons fron the year 2010 to year 2019
 
 The Spanish La Liga is the football competition held in Spain among the top twenty clubs of the country who vye for the top team in the country by winning the trophy.
 
